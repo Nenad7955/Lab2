@@ -1,5 +1,4 @@
 package ru.spbstu.telematics.java;
-
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
@@ -240,10 +239,5 @@ class HashSet<T> implements Iterable<T> {
         return false;
 
     }
-
-    // расширяем, когда таблица занята на 70%
-
-
-
 }
 
